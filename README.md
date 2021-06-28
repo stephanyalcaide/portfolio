@@ -1,7 +1,7 @@
 # portfolio
 
 # Link to application
- https://stephanyalcaide.github.io/horiseon-homework/
+https://stephanyalcaide.github.io/portfolio/index
 
 # Changes made to index
 created portfolio
